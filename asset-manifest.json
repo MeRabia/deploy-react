@@ -1,0 +1,15 @@
+{
+  "main.css": "/deploy-react/static/css/main.d63fdb17.chunk.css",
+  "main.js": "/deploy-react/static/js/main.bd8f54a0.chunk.js",
+  "main.js.map": "/deploy-react/static/js/main.bd8f54a0.chunk.js.map",
+  "static/css/1.c8e5fc35.chunk.css": "/deploy-react/static/css/1.c8e5fc35.chunk.css",
+  "static/js/1.f4780f87.chunk.js": "/deploy-react/static/js/1.f4780f87.chunk.js",
+  "static/js/1.f4780f87.chunk.js.map": "/deploy-react/static/js/1.f4780f87.chunk.js.map",
+  "runtime~main.js": "/deploy-react/static/js/runtime~main.a72cbe42.js",
+  "runtime~main.js.map": "/deploy-react/static/js/runtime~main.a72cbe42.js.map",
+  "static/css/main.d63fdb17.chunk.css.map": "/deploy-react/static/css/main.d63fdb17.chunk.css.map",
+  "static/css/1.c8e5fc35.chunk.css.map": "/deploy-react/static/css/1.c8e5fc35.chunk.css.map",
+  "index.html": "/deploy-react/index.html",
+  "precache-manifest.590873e895136200a2aa6224071ab355.js": "/deploy-react/precache-manifest.590873e895136200a2aa6224071ab355.js",
+  "service-worker.js": "/deploy-react/service-worker.js"
+}
